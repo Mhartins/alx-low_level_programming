@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * main - print _putchar
+ * main - print _putchar(char c)
  * is written by waheed
- * Return; 0
+ * Return: 0
  */
 
 int main(void)
